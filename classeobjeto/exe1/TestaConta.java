@@ -1,4 +1,4 @@
-package exe1;
+package classeobjeto.exe1;
 
 public class TestaConta {
     public static void main(String[] args) {

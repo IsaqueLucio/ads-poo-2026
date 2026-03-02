@@ -1,4 +1,4 @@
-package exe0;
+package classeobjeto.exe0;
 
 class Carro{ //Classe
 
