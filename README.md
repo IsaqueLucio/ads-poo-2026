@@ -19,6 +19,7 @@ O projeto segue as convenções de nomenclatura de pacotes Java:
 
 * `classeobjeto/`: Conceitos iniciais de classes, atributos e métodos.
 * `encapsulamento/`: Exercícios focados em modificadores de acesso (private, public) e métodos getters/setters.
+* `todoparte/`: Exercícios avançados focados em Agregação e Composição (Relacionamentos "Tem-um").
 
 ## 📝 Notas de Estudo
 Este repositório é atualizado conforme o progresso das aulas, servindo como um portfólio do meu aprendizado em lógica de programação e arquitetura de sistemas.
