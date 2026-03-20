@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.classesdeassociacao.exe0;
+
 public class Passageiro {
     
     private String cpf;

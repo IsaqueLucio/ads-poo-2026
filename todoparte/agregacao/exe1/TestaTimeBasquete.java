@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.agregacao.exe1;
+
 public class TestaTimeBasquete{
 
     public static void main(String[] args) {

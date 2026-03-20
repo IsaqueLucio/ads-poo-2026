@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.composicao.exe2;
+
 public class TestaEdAp {
     public static void main(String[] args) {
         

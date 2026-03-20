@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.classesdeassociacao.exe2;
+
 public class Leitor {
     
     private String nome;

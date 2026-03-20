@@ -1,7 +1,7 @@
-package poo_ads2026.todoparte.relacionamentomisto.exe1;
+package poo_ads2026.todoparte.relacionamentomisto.exe2;
 
-public class Produto{
-
+public class Produto {
+    
     private int id;
     private String nome;
     private double preco;
@@ -18,7 +18,7 @@ public class Produto{
 
     @Override
     public String toString() {
-        return "\nProduto \nId=" + id + ", \nnome=" + nome + ", \npreco=" + preco + "\n";
+        return "Produto [id=" + id + ", nome=" + nome + ", preco=" + preco + "]";
     }
 
     public int getId() {
@@ -44,5 +44,6 @@ public class Produto{
     public void setPreco(double preco) {
         this.preco = preco;
     }
-
+    
+    
 }

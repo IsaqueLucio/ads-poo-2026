@@ -1,4 +1,4 @@
-package classeobjeto.exe3;
+package poo_ads2026.classeobjeto.exe3;
 
 public class PlacarBasquete {
 

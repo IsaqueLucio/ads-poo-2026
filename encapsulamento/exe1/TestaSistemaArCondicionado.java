@@ -1,4 +1,4 @@
-package encapsulamento.exe1;
+package poo_ads2026.encapsulamento.exe1;
 
 public class TestaSistemaArCondicionado {
     public static void main(String[] args) {

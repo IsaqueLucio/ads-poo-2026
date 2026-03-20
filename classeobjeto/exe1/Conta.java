@@ -1,4 +1,4 @@
-package classeobjeto.exe1;
+package poo_ads2026.classeobjeto.exe1;
 
 public class Conta {
     int numeroConta;

@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.relacionamentomisto.exe1;
+
 public class ItemVenda{
 
     private int id;

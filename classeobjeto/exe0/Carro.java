@@ -1,4 +1,4 @@
-package classeobjeto.exe0;
+package poo_ads2026.classeobjeto.exe0;
 
 class Carro{ //Classe
 

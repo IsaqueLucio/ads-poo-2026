@@ -1,4 +1,4 @@
-package classeobjeto.exe2;
+package poo_ads2026.classeobjeto.exe2;
 
 public class Streaming {
     

@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.classesdeassociacao.exe1;
+
 import java.time.LocalDateTime;
 
 public class TestaConsultorio{

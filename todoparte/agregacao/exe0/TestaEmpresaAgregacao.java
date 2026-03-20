@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.agregacao.exe0;
+
 public class TestaEmpresaAgregacao{
     public static void main(String[] args) {
 

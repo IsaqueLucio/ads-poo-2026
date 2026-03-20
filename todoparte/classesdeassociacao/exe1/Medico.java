@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.classesdeassociacao.exe1;
+
 public class Medico {
     
     private String nome;

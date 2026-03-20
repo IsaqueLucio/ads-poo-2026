@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.relacionamentomisto.exe1;
+
 public class TestaLoja{
     public static void main(String[] args) {
 

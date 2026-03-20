@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.agregacao.exe1;
+
 public class Atleta {
     
     private String nome;

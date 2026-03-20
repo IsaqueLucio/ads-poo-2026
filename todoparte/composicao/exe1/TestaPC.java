@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.composicao.exe1;
+
 public class TestaPC {
     public static void main(String[] args) {
         

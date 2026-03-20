@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.classesdeassociacao.exe0;
+
 import java.time.LocalDateTime;
 
 public class TestaAgencia {

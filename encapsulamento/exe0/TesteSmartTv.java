@@ -1,4 +1,4 @@
-package encapsulamento.exe0;
+package poo_ads2026.encapsulamento.exe0;
 
 class TesteSmartTv{
     public static void main(String[] args){

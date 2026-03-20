@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.composicao.exe2;
+
 public class Apartamento {
     
     private int andar;

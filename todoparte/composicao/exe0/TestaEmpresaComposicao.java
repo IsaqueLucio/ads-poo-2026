@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.composicao.exe0;
+
 public class TestaEmpresaComposicao{
     public static void main(String[] args) {
         

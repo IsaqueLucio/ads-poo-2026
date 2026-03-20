@@ -1,3 +1,5 @@
+package poo_ads2026.todoparte.agregacao.exe1;
+
 import java.util.ArrayList;
 import java.util.List;
 
