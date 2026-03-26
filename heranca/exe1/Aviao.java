@@ -15,8 +15,8 @@ public class Aviao extends Veiculo {
             System.out.println("Para acelerar e se mover precisa ser um valor positivo maior que zero.");
         } else{
             this.velocidade += velMov;
-            double altura = this.altitudeMax-(this.altitudeMax/4); //não faz sentindo o 
-            System.out.println("Avião voando a "+velocidade+"km/h e "+altura+" metros");
+            double altura = this.altitudeMax-(this.altitudeMax/4); //não faz sentindo o avião sempre voar na sua altitude max
+            System.out.println("Avião voando a "+velocidade+"km/h e "+altura+" metros, altura de cruzeiro.");
         }
     }
 
@@ -24,6 +24,21 @@ public class Aviao extends Veiculo {
     protected void abastecer(){
         System.out.println("Abastecendo com querosene de aviação...");
     }
+
+    @Override
+    public String toString() {
+        return "Aviao [altitudeMax=" + altitudeMax + "]";
+    }
+
+    public double getAltitudeMax() {
+        return altitudeMax;
+    }
+
+    public void setAltitudeMax(double altitudeMax) {
+        this.altitudeMax = altitudeMax;
+    }
+
+    
 
 
 }
