@@ -1,4 +1,4 @@
-package interface_ads.exe1;
+package poo_ads2026.interface_ads.exe1;
 
 public class TermostatoSmart implements DispositivoLigavel,SensorTemperatura{
     
