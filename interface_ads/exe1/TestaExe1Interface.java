@@ -15,6 +15,7 @@ public class TestaExe1Interface {
         fechaduraEletronica.ligar();
         fechaduraEletronica.ligar();
         fechaduraEletronica.desligar();
+        fechaduraEletronica.ligar();
         
         System.out.println("\nTeste do Termostado Smart: ");
         System.out.println("Temperatura atual: "+termostatoSmart.lerTemperatura());
